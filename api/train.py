@@ -20,7 +20,7 @@ from sklearn.pipeline import Pipeline
 # In[19]:
 
 
-data_wine = pd.read_csv('C:/Users/Michela/Downloads/archive (1)/winequality-red.csv')
+data_wine = pd.read_csv("https://raw.githubusercontent.com/michaglia/hackathon-dse/main/data/winequality-red.csv")
 
 
 # In[20]:
